@@ -9,6 +9,10 @@
 
 <body>
     <h1>Poya</h1>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo magni quia eius suscipit perferendis, pariatur aliquid excepturi consequuntur nam, totam labore tempore qui, accusamus voluptates perspiciatis aut delectus illum dolorum.</p>
 </body>
 
